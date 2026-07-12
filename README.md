@@ -22,6 +22,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -38,13 +40,13 @@
       <h4>💰 FinSight</h4>
       <p>Personal finance app with a FastAPI backend. Handles transactions, budgets, and reports.</p>
       <p><b>Stack:</b> Python, FastAPI</p>
-      <a href="https://github.com/YOUR-USERNAME/finsight">View repo →</a>
+      <a href="https://github.com/tonogutierrez/finsight">View repo →</a>
     </td>
     <td width="50%">
       <h4>🎬 CineApp</h4>
       <p>Movie ticket booking system with movie and showtime management. JWT authentication in progress.</p>
       <p><b>Stack:</b> Node.js, MongoDB</p>
-      <a href="https://github.com/YOUR-USERNAME/cineapp">View repo →</a>
+      <a href="https://github.com/tonogutierrez/cineapp">View repo →</a>
     </td>
   </tr>
   <tr>
@@ -52,7 +54,7 @@
       <h4>📈 IS512 – Time Series Forecasting</h4>
       <p>Time series models (SES, Holt, ARIMA) applied to the S&P 500 (2013–2018), evaluated with RMSE/MAE.</p>
       <p><b>Stack:</b> R</p>
-      <a href="https://github.com/YOUR-USERNAME/is512">View repo →</a>
+      <a href="https://github.com/tonogutierrez/is512">View repo →</a>
     </td>
   </tr>
 </table>
@@ -60,6 +62,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tonogutierrez&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonogutierrez&layout=compact&hide_border=true" />
 </p>
