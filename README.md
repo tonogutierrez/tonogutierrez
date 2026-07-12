@@ -32,10 +32,25 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-4. Opcional — "Open to opportunities" badge, directo para reclutadores que están viendo tu perfil buscando candidatos:
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-brightgreen?style=for-the-badge">
-</p>
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💰 FinSight</h4>
+      <p>Personal finance app with a FastAPI backend. Handles transactions, budgets, and reports.</p>
+      <p><b>Stack:</b> Python, FastAPI</p>
+      <a href="https://github.com/tonogutierrez/finsight">View repo →</a>
+    </td>
+    <td width="50%">
+      <h4>🎬 CineApp</h4>
+      <p>Movie ticket booking system with movie and showtime management. JWT authentication in progress.</p>
+      <p><b>Stack:</b> Node.js, MongoDB</p>
+      <a href="https://github.com/tonogutierrez/cineapp">View repo →</a>
+    </td>
+  </tr>
+</table>
+
 
 ### 🐍 My Contribution Graph
 
