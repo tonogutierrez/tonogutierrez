@@ -32,6 +32,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
+4. Opcional — "Open to opportunities" badge, directo para reclutadores que están viendo tu perfil buscando candidatos:
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-brightgreen?style=for-the-badge">
+</p>
+
 ### 🐍 My Contribution Graph
 
 <p align="center">
