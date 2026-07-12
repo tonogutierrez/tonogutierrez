@@ -32,10 +32,9 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-
-### 📊 GitHub Stats
+### 🐍 My Contribution Graph
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tonogutierrez&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonogutierrez&layout=compact&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/tonogutierrez/tonogutierrez/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/tonogutierrez/tonogutierrez/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
