@@ -32,32 +32,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>💰 FinSight</h4>
-      <p>Personal finance app with a FastAPI backend. Handles transactions, budgets, and reports.</p>
-      <p><b>Stack:</b> Python, FastAPI</p>
-      <a href="https://github.com/tonogutierrez/finsight">View repo →</a>
-    </td>
-    <td width="50%">
-      <h4>🎬 CineApp</h4>
-      <p>Movie ticket booking system with movie and showtime management. JWT authentication in progress.</p>
-      <p><b>Stack:</b> Node.js, MongoDB</p>
-      <a href="https://github.com/tonogutierrez/cineapp">View repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📈 IS512 – Time Series Forecasting</h4>
-      <p>Time series models (SES, Holt, ARIMA) applied to the S&P 500 (2013–2018), evaluated with RMSE/MAE.</p>
-      <p><b>Stack:</b> R</p>
-      <a href="https://github.com/tonogutierrez/is512">View repo →</a>
-    </td>
-  </tr>
-</table>
 
 ### 📊 GitHub Stats
 
